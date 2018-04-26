@@ -17,7 +17,7 @@ Partial Public Class BatchUpdate
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As EventArgs)
         'Add new row on the first load
-        If (Not IsPostBack) AndAlso (Not IsCallback) Then
+        If Not IsPostBack AndAlso Not IsCallback Then
             grid.AddNewRow()
         End If
     End Sub
