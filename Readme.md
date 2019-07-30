@@ -1,6 +1,6 @@
 # Implement on-demand data posting (batch data update)
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e129)**
+**[[Run Online]](https://codecentral.devexpress.com/e129/)**
 <!-- run online end -->
 
 
